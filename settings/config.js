@@ -1,4 +1,4 @@
-import { Colors } from "discord.js";
+MTIxODc1MzIyNjc3MDIxOTA4OA.GJDD-g.ZbArSMwBDW0PBNmLreiyLhyvy4A9FkYfW-3IPY import { Colors } from "discord.js";
 
 const settings = {
   TOKEN: process.env.TOKEN || "MTIxODc1MzIyNjc3MDIxOTA4OA.GsYl2-.2jQBMfQFfGxJCjtK8EkF7VnK9zm_8cQoZYN9RM",
